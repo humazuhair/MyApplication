@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">My Application</string>    <string name="quitter">Quitter</string>    <string name="envoyer">Envoyer</string>    <string name="textEdit">Ajouter votre message</string>    <string name="env">env</string></resources>
